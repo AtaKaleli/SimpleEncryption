@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689153784 source:c:\users\ata_k\onedrive\masaüstü\c training\simple encryption\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
